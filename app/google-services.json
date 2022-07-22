@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33043367206",
+    "firebase_url": "https://uas-akb-demoradev-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-akb-demoradev",
+    "storage_bucket": "uas-akb-demoradev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33043367206:android:0683f7462b6ef212eeede7",
+        "android_client_info": {
+          "package_name": "com.demoradev.tugasbesarakbif1demoradev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33043367206-s6echra3mh6pnm6cmsptg8n3g19v9jmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZ5ZpDNiouy8V2w9ph94rGiyBnbipFV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33043367206-s6echra3mh6pnm6cmsptg8n3g19v9jmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
