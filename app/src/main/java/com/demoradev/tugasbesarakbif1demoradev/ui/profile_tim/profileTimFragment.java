@@ -28,9 +28,9 @@ public class profileTimFragment extends Fragment {
 
         teamList = new ArrayList<>();
 
-        int[] image = {R.drawable.ivan_akb, R.drawable.fiona_akb, R.drawable.tommy_akb, R.drawable.argya_akb};
-        String[] nama = {"Ivan Faathirza", "Fiona Avila Putri", "Muhammad Khatami", "Argya Aulia Fauzandika"};
-        String[] nim = {"10119003", "10119013", "10119026", "10119035"};
+        int[] image = {R.drawable.ivan_akb, R.drawable.fiona_akb, R.drawable.tommy_akb, R.drawable.argya_akb, R.drawable.pandya_akb};
+        String[] nama = {"Ivan Faathirza", "Fiona Avila Putri", "Muhammad Khatami", "Argya Aulia Fauzandika", "Alfyandi Pandya"};
+        String[] nim = {"10119003", "10119013", "10119026", "10119035", "10119007"};
 
         for (int i=0; i< image.length; i++){
             teamModel item = new teamModel(image[i], nama[i], nim[i]);
