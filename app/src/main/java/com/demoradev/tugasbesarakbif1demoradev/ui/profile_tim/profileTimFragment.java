@@ -1,3 +1,9 @@
+/*
+ *   NIM : 10119035
+ *   NAMA : ARGYA AULIA FAUZANDIKA
+ *   KELAS : IF-1
+ * */
+
 package com.demoradev.tugasbesarakbif1demoradev.ui.profile_tim;
 
 import android.os.Bundle;
