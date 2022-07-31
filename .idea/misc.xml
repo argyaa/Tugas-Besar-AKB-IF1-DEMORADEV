@@ -12,10 +12,14 @@
         <entry key="..\:/Users/ardia/AndroidStudioProjects/tugasbesarakbif1demoradev/app/src/main/res/layout/fragment_home.xml" value="0.2558876811594203" />
         <entry key="..\:/Users/ardia/AndroidStudioProjects/tugasbesarakbif1demoradev/app/src/main/res/layout/fragment_profile_tim.xml" value="0.2558876811594203" />
         <entry key="..\:/Users/ardia/AndroidStudioProjects/tugasbesarakbif1demoradev/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3411458333333333" />
+        <entry key="..\:/mine/Kuliah/Android Project/Tugas-Besar-AKB-IF1-DEMORADEV/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/mine/Kuliah/Android Project/Tugas-Besar-AKB-IF1-DEMORADEV/app/src/main/res/layout/fragment_about.xml" value="0.22826086956521738" />
+        <entry key="..\:/mine/Kuliah/Android Project/Tugas-Besar-AKB-IF1-DEMORADEV/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/mine/Kuliah/Android Project/Tugas-Besar-AKB-IF1-DEMORADEV/app/src/main/res/layout/fragment_profile_tim.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
