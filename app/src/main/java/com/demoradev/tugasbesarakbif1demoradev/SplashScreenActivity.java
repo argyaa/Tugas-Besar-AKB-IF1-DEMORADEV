@@ -1,3 +1,8 @@
+//
+// Nama  : Alfiyandi Pandya K
+// Nim   : 10119007
+// Kelas : IF 1
+
 package com.demoradev.tugasbesarakbif1demoradev;
 
 import android.content.Intent;
@@ -7,10 +12,7 @@ import android.os.Handler;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
-//
-// Nama  : Alfiyandi Pandya K
-// Nim   : 10119007
-// Kelas : IF 1
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
