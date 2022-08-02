@@ -1,3 +1,7 @@
+//NIM   : 10119013
+//NAMA  : FIONA AVILA PUTRI
+//KELAS : IF-1
+
 package com.demoradev.tugasbesarakbif1demoradev.ui.about;
 
 import android.view.LayoutInflater;
