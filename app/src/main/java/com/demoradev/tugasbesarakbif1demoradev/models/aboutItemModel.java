@@ -1,16 +1,12 @@
-/*
- *   NIM : 10119035
- *   NAMA : ARGYA AULIA FAUZANDIKA
- *   KELAS : IF-1
- * */
-
 package com.demoradev.tugasbesarakbif1demoradev.models;
 
 public class aboutItemModel {
-    public String title, description;
+    public int image;
+    public String title, desc;
 
-    public aboutItemModel(String title, String description) {
+    public aboutItemModel(int image, String title, String desc) {
+        this.image = image;
         this.title = title;
-        this.description = description;
+        this.desc = desc;
     }
 }
