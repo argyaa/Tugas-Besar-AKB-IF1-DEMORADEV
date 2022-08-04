@@ -8,6 +8,7 @@ package com.demoradev.tugasbesarakbif1demoradev.ui.home;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -21,6 +22,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.demoradev.tugasbesarakbif1demoradev.R;
 import com.demoradev.tugasbesarakbif1demoradev.models.toursModel;
+import com.demoradev.tugasbesarakbif1demoradev.ui.map.MapsActivity;
 
 import java.util.List;
 
@@ -52,13 +54,13 @@ public class homeAdapter extends RecyclerView.Adapter<homeAdapter.homeViewHolder
                 .load(data.image)
                 .into(holder.image);
 
-//        holder.tourCard.setOnClickListener(view -> {
-//            Intent intent = new Intent(activity, MapActivity.class);
-//            intent.putExtra("title", String.valueOf(data.name));
-//            intent.putExtra("lat", String.valueOf(data.lat));
-//            intent.putExtra("long", String.valueOf(data.lng));
-//            activity.startActivityForResult(intent, 1);
-//        });
+        holder.tourCard.setOnClickListener(view -> {
+            Intent intent = new Intent(activity, MapsActivity.class);
+            intent.putExtra("title", String.valueOf(data.name));
+            intent.putExtra("lat", String.valueOf(data.lat));
+            intent.putExtra("long", String.valueOf(data.lng));
+            activity.startActivityForResult(intent, 1);
+        });
     }
 
     @Override
