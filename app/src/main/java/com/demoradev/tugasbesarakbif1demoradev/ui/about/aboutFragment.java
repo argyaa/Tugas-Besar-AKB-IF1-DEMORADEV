@@ -35,7 +35,7 @@ public class aboutFragment extends Fragment {
 
         int[] image = {R.drawable.version, R.drawable.info, R.drawable.group};
         String[] judul = {"Version", "About", "Made by"};
-        String[] desc = {"1.0.0", "Tugas ini dibuat untuk memenuhi tugas besar mata kuliah Aplikasi Komputer Bergerak. Aplikasi ini akan menampilkan profil tempat wisata yang berada di area Bandung Raya beserta dengan lokasi tempat wisata pada peta.", "10119001-Ivan\n10119013-Fiona\n10119016-Khatami\n10119035-Argya\n10119007-Alfiyandi"};
+        String[] desc = {"1.0.0", "Tugas ini dibuat untuk memenuhi tugas besar mata kuliah Aplikasi Komputer Bergerak. Aplikasi ini akan menampilkan profil tempat wisata yang berada di area Bandung Raya beserta dengan lokasi tempat wisata pada peta.", "10119003-Ivan\n10119013-Fiona\n10119026-Khatami\n10119035-Argya\n10119007-Alfiyandi"};
 
         for (int i=0; i < image.length; i++){
             aboutItemModel item = new aboutItemModel(image[i], judul[i], desc[i]);
