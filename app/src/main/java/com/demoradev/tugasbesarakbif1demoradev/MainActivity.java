@@ -1,3 +1,9 @@
+/*
+ * Nama : Argya Aulia Fauzandika
+ * NIM  : 10119035
+ * Kelas : IF1
+ * */
+
 package com.demoradev.tugasbesarakbif1demoradev;
 
 import android.os.Bundle;
