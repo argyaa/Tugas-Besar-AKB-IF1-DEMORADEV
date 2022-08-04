@@ -1,6 +1,7 @@
 //NIM   : 10119013
 //NAMA  : FIONA AVILA PUTRI
 //KELAS : IF-1
+//Tanggal pengerjaan : 2 Agustus 2022
 
 package com.demoradev.tugasbesarakbif1demoradev.models;
 

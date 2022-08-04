@@ -2,6 +2,7 @@
  * Nama : Argya Aulia Fauzandika
  * NIM  : 10119035
  * Kelas : IF1
+ * Tanggal Pengerjaan : 4 Agustus 2022
  * */
 
 package com.demoradev.tugasbesarakbif1demoradev.ui.home;

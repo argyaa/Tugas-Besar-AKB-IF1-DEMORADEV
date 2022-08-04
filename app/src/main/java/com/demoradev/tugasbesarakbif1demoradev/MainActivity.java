@@ -2,6 +2,7 @@
  * Nama : Argya Aulia Fauzandika
  * NIM  : 10119035
  * Kelas : IF1
+ * Tanggal Pengerjaan : 18 Juli 2022
  * */
 
 package com.demoradev.tugasbesarakbif1demoradev;
@@ -39,5 +40,4 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         NavigationUI.setupWithNavController(binding.navView, navController);
     }
-
 }
